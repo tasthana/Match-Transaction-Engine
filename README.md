@@ -6,4 +6,5 @@ The current list for specially designated persons, which is a public resource. I
 [OFAC](https://sanctionssearch.ofac.treas.gov/) 
 
 # Current Methods 
-Some insurance companies do it by substring matching which is a bad way as it leads to lots of false positives which leads to lots of noise. 
+- Some insurance companies do it by substring matching which is a bad way as it leads to lots of false positives which leads to lots of noise. 
+- [Interdiction]([(https://ofac.treasury.gov/faqs/48)]) Software from OFAC
